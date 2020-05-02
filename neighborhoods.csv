@@ -1,4 +1,43 @@
 Address,Latitude,Longitude,Neighborhood,City
+"Zweite Querkanalbrücke, Worthdamm, Steinwerder, Hamburg, 20457, Deutschland",53.5324237,9.9817836,Steinwerder,Hamburg
+"37, Chicagokai, Quartier Elbtorquartier, HafenCity, Hamburg, 20457, Deutschland",53.53437945,10.0021560203148,HafenCity,Hamburg
+"12, Zweibrückenstraße, Quartier Elbbrücken, HafenCity, Hamburg, 20539, Deutschland",53.53406125,10.025495946464119,HafenCity,Hamburg
+"129e, Marckmannstraße, Rothenburgsort, Hamburg-Mitte, Hamburg, 20539, Deutschland",53.53445515,10.048362258693588,Hamburg-Mitte,Hamburg
+"Am Altonaer Holzhafen, Altona-Altstadt, Altona, Hamburg, 22767, Deutschland",53.5442202,9.945906405632675,Altona,Hamburg
+"Landungsbrücken Kaffee- und Tee-Kontor, Brücke 4, Karolinenviertel, Hamburg-Mitte, St. Pauli, Hamburg, 20359, Deutschland",53.5452118,9.9687047,St. Pauli,Hamburg
+"15, Reimerstwiete, Altstadt, Hamburg, 20457, Deutschland",53.54487975,9.991220363669065,Altstadt,Hamburg
+"Prizeotel Hamburg City, 28, Högerdamm, Hammerbrook, Hamburg, 20097, Deutschland",53.5457586,10.013981657604138,Hammerbrook,Hamburg
+"133, Süderstraße, Hammerbrook, Hamburg-Mitte, Hamburg, 20537, Deutschland",53.5470737,10.03579770608178,Hamburg-Mitte,Hamburg
+"12, Osterbrookplatz, Hamm, Hamburg-Mitte, Hamburg, 20537, Deutschland",53.5475401,10.0588254,Hamburg-Mitte,Hamburg
+"62, Gilbertstraße, Karolinenviertel, St. Pauli, Altona, Hamburg, 22767, Deutschland",53.5551763,9.955922255343307,Altona,Hamburg
+"Wassertreppen, Sievekingplatz, Neustadt, Hamburg, 20355, Deutschland",53.5564747,9.9795017,Neustadt,Hamburg
+"Kennedybrücke, St. Georg, Hamburg, 20099, Deutschland",53.55727354376738,10.001193665712512,St. Georg,Hamburg
+"Staatliche Handelsschule Am Lämmermarkt H2, 2, Wallstraße, Hohenfelde, Hamburg-Nord, Hamburg, 22087, Deutschland",53.557756499999996,10.023327867740859,Hamburg-Nord,Hamburg
+"Christuskirche Hamm, 59, Carl-Petersen-Straße, Hamburg-Mitte, Hamm, Hamburg, 20535, Deutschland",53.558657499999995,10.046402663888887,Hamm,Hamburg
+"Hammer Straße, Marienthal, Wandsbek, Hamburg, 22111, Deutschland",53.55969000184882,10.068926945186055,Wandsbek,Hamburg
+"Agentur für Arbeit Hamburg, Augustenburger Straße, Altona-Nord, Altona, Hamburg, 22769, Deutschland",53.5659052,9.943490363275366,Altona,Hamburg
+"Kraine Goldberger, Agathenstraße, Eimsbüttel, Hamburg, 20357, Deutschland",53.5671995,9.9659322,Eimsbüttel,Hamburg
+"55, Rothenbaumchaussee, Rotherbaum, Eimsbüttel, Hamburg, 20148, Deutschland",53.5682265,9.988007949698794,Eimsbüttel,Hamburg
+"Außenalster, Schöne Aussicht, Uhlenhorst, Hamburg-Nord, Hamburg, 22085, Deutschland",53.5689488,10.007305547125247,Hamburg-Nord,Hamburg
+"12, Dorothea-Bernstein-Weg, Uhlenhorst, Hamburg-Nord, Hamburg, 22081, Deutschland",53.5698482,10.0336593,Hamburg-Nord,Hamburg
+"91, Schellingstraße, Auenviertel, Eilbek, Wandsbek, Hamburg, 22089, Deutschland",53.5712523,10.0570108,Wandsbek,Hamburg
+"Neubau, Kneesestraße, Wandsbek, Hamburg, 22041, Deutschland",53.57185145,10.078868230634928,Wandsbek,Hamburg
+"Schule Telemannstraße, Heußweg, Eimsbüttel, Hamburg, 20255, Deutschland",53.5784127,9.952566628963499,Eimsbüttel,Hamburg
+"2, Hoheluftchaussee, Hoheluft-West, Eimsbüttel, Hamburg, 20253, Deutschland",53.579376249999996,9.975723576033666,Eimsbüttel,Hamburg
+"Anleger Krugkoppelbrücke, Krugkoppel, Harvestehude, Eimsbüttel, Hamburg, 20149, Deutschland",53.5798951,9.998569770714063,Eimsbüttel,Hamburg
+"143, Weidestraße, Barmbek-Süd, Hamburg-Nord, Hamburg, 22083, Deutschland",53.58113995,10.021052508161002,Hamburg-Nord,Hamburg
+"Alfred Diestel Haus, Barmbeker Markt, Barmbek-Süd, Hamburg-Nord, Hamburg, 22081, Deutschland",53.58226355,10.043474837275262,Hamburg-Nord,Hamburg
+"19, Diedenhofer Straße, Dulsberg, Hamburg-Nord, Hamburg, 22049, Deutschland",53.5831156,10.06619147219964,Hamburg-Nord,Hamburg
+"Mittelweg, Stellingen, Eimsbüttel, Hamburg, 22527, Deutschland",53.589441598016315,9.94036970596797,Eimsbüttel,Hamburg
+"67c, Grandweg, Lokstedt, Eimsbüttel, Hamburg, 22529, Deutschland",53.590551500000004,9.963355824996668,Eimsbüttel,Hamburg
+"24, Schottmüllerstraße, Eppendorf, Hamburg-Nord, Hamburg, 20251, Deutschland",53.5913439,9.985739601673295,Hamburg-Nord,Hamburg
+"144d, Maria-Louisen-Straße, Jarrestadt, Winterhude, Hamburg-Nord, Hamburg, 22301, Deutschland",53.59236975,10.0083334289647,Hamburg-Nord,Hamburg
+"65, Saarlandstraße, Jarrestadt, Winterhude, Hamburg-Nord, Hamburg, 22303, Deutschland",53.5935062,10.03119692117171,Hamburg-Nord,Hamburg
+"24, Schlicksweg, Barmbek-Nord, Hamburg-Nord, Hamburg, 22307, Deutschland",53.5942528,10.0534835,Hamburg-Nord,Hamburg
+"Peugeot, 55, Nedderfeld, Lokstedt, Eimsbüttel, Hamburg, 22529, Deutschland",53.6022765,9.97262605328013,Eimsbüttel,Hamburg
+"28, Bebelallee, Alsterdorf, Hamburg-Nord, Hamburg, 22297, Deutschland",53.6033834,9.99639414676291,Hamburg-Nord,Hamburg
+"Singapurweg, Jarrestadt, Winterhude, Hamburg-Nord, Hamburg, 22297, Deutschland",53.604472915181034,10.018312710779083,Hamburg-Nord,Hamburg
+"2, Manstadtsweg, Barmbek-Nord, Hamburg-Nord, Hamburg, 22307, Deutschland",53.6054153,10.0407373,Hamburg-Nord,Hamburg
 "Pasta Bar, 1, Fritz-Reuter-Straße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10827, Deutschland",52.4809658,13.3495387,Tempelhof-Schöneberg,Berlin
 "Rosenpromenade, KGA Papestraße, Tempelhof, Tempelhof-Schöneberg, Berlin, 12101, Deutschland",52.48115853609276,13.371573080713269,Tempelhof-Schöneberg,Berlin
 "Flughafen Tempelhof, Werner-Loebermann-Weg, Gartenstadt Neu-Tempelhof, Tempelhof, Tempelhof-Schöneberg, Berlin, 12101, Deutschland",52.480649150000005,13.388919072222226,Tempelhof-Schöneberg,Berlin
