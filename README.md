@@ -46,7 +46,7 @@ The Foursquare Places API uses addresses as search entries. Therefore, the rever
 
 Cleaned up, the dataset includes the neighbourhood address, latitude, longitude, borough and city.
 
-![Table with neighbourhood data](https://github.com/anneadb/Coursera_Capstone/blob/master/Screenshots/table_neighbourhoods.png)
+![Table with neighbourhood data](https://github.com/anneadb/Coursera_Capstone/blob/master/Screenshots/table_neighborhoods.png)
 
 ### Get venue data from Foursquare
 
