@@ -18,19 +18,19 @@ Cleaned up, the dataset includes the neighbourhood address, latitude, longitude,
 
 ### Get venue data from Foursquare
 
-The Foursquare Places API provides venue recommendations using "explore". It was used to request the 100 most popular venues within 1.5 km of each neighbourhood center. Along with the venue name, Foursquare proviced many additional details on the venue such as the category (e.g. bakery or theater).
+The Foursquare Places API provides venue recommendations using the "explore" functionality. It was used to request the 100 most popular venues within 1.5 km of each neighbourhood center. Along with the venue name, Foursquare provides many additional details on the venue such as the category (e.g. bakery or theater).
 
 Those neighbourhoods for which less than 100 venues were found were exluded from the dataset.
 
-For each remaining neighbourhood and borough the top 10 venue categories were identified. This was done using one hot encoding and then calculating the mean per category.
+For each remaining neighbourhood and borough the top 10 venue categories were identified. This was done using one hot encoding and calculation of the mean per category.
 
 ![Table with Top 10 venue categories](https://github.com/anneadb/Coursera_Capstone/blob/master/Screenshots/table_top10_categories.png)
 
-For the following analysis the resulting tables were simplified and geocoordinates generated for each borough.
+For the following analysis the resulting tables were simplified and geo-coordinates generated for each borough.
 
 ### Cluster neighbourhoods and boroughs
 
-The neighbourhoods and boroughs were clustered using the Kmeans algorithm from sklearn. Kmeans groups each observation (in this case each neighbourhood or borough) into clusters minimizing the within-cluster variance. Important to note is that it converges to a local optimum, so each computation may lead to different results.
+The neighbourhoods and boroughs were clustered using the Kmeans algorithm from sklearn. Kmeans groups each observation (in this case each neighbourhood or borough) into clusters minimizing the variance within each cluster. Important to note is that it converges to a local optimum, so each computation may lead to different results.
 
 A high number of clusters were specified (15 for the neighbourhoods and 5 for the boroughs) with the aim of getting very specific clusters with an average of 4 neighbourhoods or boroughs.
 
