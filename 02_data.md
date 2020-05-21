@@ -14,4 +14,4 @@ The foollowing data sources will be needed to extract/generate the required info
 
 * The neighborhoods will be generated algorithmically and approximate addresses of centers of those areas will be obtained using geopy Nominatim reverse geocoding.
 
-* The number of venues and their type in every neighborhood will be obtained using the Foursquare API.
+* The number of venues and their category in every neighborhood will be obtained using the Foursquare API.

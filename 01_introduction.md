@@ -8,4 +8,4 @@ My target audience are people moving from one city to another and wanting to kno
 
 Specifically, if you move from Hamburg to Berlin which neighborhood should you move to based on your previous neighborhood? What characteristics do these neighborhoods have?
 
-The analysis will show that for several neighborhoods we will not find a similar counterpart in the other city. A lot of other neighborhoods, however, can be clustered into two large groups that are relatively generic in their characteristics. More interesting are three smaller clusters that appear to have a more distinct venue mix.
+The analysis will show that for several neighborhoods we will not find a similar counterpart in the other city. Two clusters, however, have a distinct venue mix and are represented in both cities.
