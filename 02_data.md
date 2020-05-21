@@ -1,4 +1,4 @@
-# Data
+## Data
 
 For this analysis I will be using foursquare data to analyze different neighborhoods in two major German cities: Hamburg and Berlin.
 

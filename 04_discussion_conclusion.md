@@ -1,5 +1,3 @@
-# Discussion and Conclusion
-
 ## Discussion
 
 The approach of going with algorithmically generated neighborhoods has proved to lead to much better results than going with the official boroughs. Neighborhoods in German cities appear to be defined by a very small radius and the boroughs therefore include many neighborhoods that can be very different from one another.

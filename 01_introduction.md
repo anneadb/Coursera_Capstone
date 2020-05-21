@@ -1,4 +1,4 @@
-# Introduction
+## Introduction
 
 Berlin and Hamburg are two of Germany's largest cities and each year many people move from one city to the other.
 
