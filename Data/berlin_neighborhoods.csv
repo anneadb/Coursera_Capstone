@@ -1,4 +1,4 @@
-Address,Latitude,Longitude,Neighborhood,City
+Neighborhood,Latitude,Longitude,Borough,City
 "Pasta Bar, 1, Fritz-Reuter-Straße, Schöneberg, Tempelhof-Schöneberg, Berlin, 10827, Deutschland",52.4809658,13.3495387,Tempelhof-Schöneberg,Berlin
 "Rosenpromenade, KGA Papestraße, Tempelhof, Tempelhof-Schöneberg, Berlin, 12101, Deutschland",52.48115853609276,13.371573080713269,Tempelhof-Schöneberg,Berlin
 "Flughafen Tempelhof, Werner-Loebermann-Weg, Gartenstadt Neu-Tempelhof, Tempelhof, Tempelhof-Schöneberg, Berlin, 12101, Deutschland",52.480649150000005,13.388919072222226,Tempelhof-Schöneberg,Berlin

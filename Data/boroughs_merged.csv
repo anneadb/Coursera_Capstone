@@ -1,25 +1,22 @@
 Borough,City,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
-Tempelhof-Schöneberg,Berlin,52.4406033,13.3737035,0,Café,Bakery,German Restaurant,Vietnamese Restaurant,Supermarket,Park,Italian Restaurant,Cocktail Bar,Historic Site,Pizza Place
-Wilmersdorf,Berlin,52.4871152,13.3203298,4,French Restaurant,German Restaurant,Hotel,Flea Market,Greek Restaurant,Gas Station,Supermarket,Street Food Gathering,Spa,Organic Grocery
-Friedrichshain-Kreuzberg,Berlin,52.5153063,13.4616117,0,Café,Coffee Shop,Bar,Italian Restaurant,Supermarket,Bakery,Hotel,Cocktail Bar,Nightclub,Plaza
-Charlottenburg,Berlin,52.515747,13.3096834,4,Hotel,Café,Chinese Restaurant,Indian Restaurant,German Restaurant,Plaza,Bank,Cocktail Bar,Theater,Bookstore
-Tiergarten,Berlin,52.5097776,13.3572597,4,Hotel,Café,Park,Coffee Shop,Plaza,Italian Restaurant,Hotel Bar,Bakery,Art Gallery,Bar
-Hansaviertel,Berlin,52.5191234,13.3418725,4,Hotel,Restaurant,Kebab Restaurant,Bus Stop,Monument / Landmark,Café,Sporting Goods Shop,Metro Station,Gastropub,Supermarket
-Unter den Linden,Berlin,52.5166879,13.3860417,0,Plaza,Monument / Landmark,Sandwich Place,Asian Restaurant,Restaurant,Opera House,Clothing Store,Cocktail Bar,Café,Exhibit
-Mitte,Berlin,52.5176896,13.4023757,5,German Restaurant,Museum,Café,Hotel,Art Gallery,Plaza,History Museum,Restaurant,Canal Lock,Cupcake Shop
-Moabit,Berlin,52.5301017,13.3425422,0,Coffee Shop,Hotel,Burger Joint,Gym / Fitness Center,Italian Restaurant,Café,Drugstore,Indian Restaurant,Vietnamese Restaurant,Bus Stop
-Spandauer Vorstadt,Berlin,52.5257512,13.3995437,0,Coffee Shop,Art Gallery,Japanese Restaurant,Italian Restaurant,Athletics & Sports,Vegetarian / Vegan Restaurant,Cocktail Bar,Furniture / Home Store,Modern European Restaurant,Restaurant
-Pankow,Berlin,52.597636699999995,13.436373975411648,0,Café,Coffee Shop,Italian Restaurant,Bakery,Ice Cream Shop,Cocktail Bar,Vietnamese Restaurant,Beer Bar,Organic Grocery,Japanese Restaurant
-Wedding,Berlin,52.550123,13.34197,0,Café,Bakery,Bar,Chinese Restaurant,Pharmacy,Brewery,Korean Restaurant,Middle Eastern Restaurant,Park,Grocery Store
-Gesundbrunnen,Berlin,52.5509201,13.384846,0,Bakery,Bar,Café,Drugstore,Italian Restaurant,Supermarket,Clothing Store,Trail,Snack Place,Coffee Shop
-HafenCity,Hamburg,53.5429127,9.9958346,3,Restaurant,Nightclub,Hotel,Light Rail Station,Hotel Pool,Hotel Bar,Fast Food Restaurant,Electronics Store,Empanada Restaurant,Event Space
-Altona,Hamburg,53.58646755,9.777669726868917,0,Café,Bar,Restaurant,Seafood Restaurant,Pub,Italian Restaurant,Cocktail Bar,Park,Furniture / Home Store,Fish Market
-St. Pauli,Hamburg,53.5539347,9.9594316,0,Café,Portuguese Restaurant,Bar,Hotel,Boat or Ferry,Pizza Place,Beach Bar,Pub,Italian Restaurant,Seafood Restaurant
-Altstadt,Hamburg,53.55049605,9.997775627725257,0,German Restaurant,Asian Restaurant,Café,Italian Restaurant,Hotel,French Restaurant,Restaurant,Bistro,Exhibit,Coffee Shop
-Hammerbrook,Hamburg,53.5468152,10.0265586,1,Hotel,Art Gallery,Theater,Asian Restaurant,Syrian Restaurant,Supermarket,Bar,Farmers Market,Hostel,Athletics & Sports
-Neustadt,Hamburg,53.5498808,9.9790482,4,Hotel,Café,Restaurant,Gym / Fitness Center,Sushi Restaurant,Bar,Ramen Restaurant,Bookstore,Scandinavian Restaurant,Park
-St. Georg,Hamburg,53.5569933,10.0141623,4,Restaurant,Hotel,Gym / Fitness Center,Café,Lake,Cocktail Bar,German Restaurant,Vietnamese Restaurant,Bar,Pub
-Hamburg-Nord,Hamburg,53.61915555,10.009739899920163,0,Café,Supermarket,Bakery,Bus Stop,Italian Restaurant,German Restaurant,Park,Drugstore,Vietnamese Restaurant,Sushi Restaurant
-Hamm,Hamburg,53.5534434,10.0512944,2,Pizza Place,Bar,Greek Restaurant,Laundromat,Doner Restaurant,Bus Stop,Supermarket,Gastropub,Pharmacy,Ice Cream Shop
-Eimsbüttel,Hamburg,53.5724835,9.9501,0,Café,Italian Restaurant,Bakery,Ice Cream Shop,Hotel,Coffee Shop,Bar,Park,Supermarket,Bookstore
-Wandsbek,Hamburg,53.5760029,10.0755348,0,Supermarket,Hotel,Chinese Restaurant,Park,Drugstore,Turkish Restaurant,Restaurant,Gym,Bavarian Restaurant,Coffee Shop
+Tempelhof-Schöneberg,Berlin,52.44060329999999,13.3737035,4,Café,Italian Restaurant,Bar,Coffee Shop,Pizza Place,Park,Cocktail Bar,Ice Cream Shop,Bakery,Korean Restaurant
+Wilmersdorf,Berlin,52.4871152,13.320329800000001,3,Bakery,Italian Restaurant,Dessert Shop,Supermarket,Sushi Restaurant,Plaza,Organic Grocery,Breakfast Spot,Drugstore,Café
+Friedrichshain-Kreuzberg,Berlin,52.5153063,13.4616117,4,Café,Coffee Shop,Bar,Italian Restaurant,Hotel,Ice Cream Shop,Bakery,Turkish Restaurant,Plaza,Pizza Place
+Charlottenburg,Berlin,52.515747,13.3096834,3,Hotel,Gourmet Shop,Italian Restaurant,Bakery,Zoo Exhibit,Café,Restaurant,Korean Restaurant,German Restaurant,Japanese Restaurant
+Tiergarten,Berlin,52.50977760000001,13.357259699999998,2,Hotel,Zoo Exhibit,Plaza,Hotel Bar,Monument / Landmark,Concert Hall,Spa,Park,Café,Coffee Shop
+Hansaviertel,Berlin,52.51912339999999,13.341872500000001,2,Hotel,Zoo Exhibit,Jazz Club,Park,Monument / Landmark,Bakery,Restaurant,Art Museum,Coffee Shop,Italian Restaurant
+Unter den Linden,Berlin,52.516687899999994,13.386041699999998,2,Concert Hall,Hotel,History Museum,Plaza,Monument / Landmark,Drugstore,Historic Site,Art Museum,Museum,Science Museum
+Mitte,Berlin,52.517689600000004,13.402375699999999,2,Hotel,History Museum,Coffee Shop,Art Gallery,Plaza,Museum,Bookstore,Art Museum,Concert Hall,Park
+Moabit,Berlin,52.530101699999996,13.342542199999999,4,Café,Hotel,Coffee Shop,Bar,Italian Restaurant,Cocktail Bar,Vietnamese Restaurant,Burger Joint,Turkish Restaurant,Breakfast Spot
+Spandauer Vorstadt,Berlin,52.5257512,13.3995437,4,Coffee Shop,Bookstore,Ice Cream Shop,Café,Hotel,Italian Restaurant,Vegetarian / Vegan Restaurant,Historic Site,Theater,Bakery
+Pankow,Berlin,52.5976367,13.436373975411648,4,Café,Coffee Shop,Vietnamese Restaurant,Ice Cream Shop,Bakery,Italian Restaurant,Bar,Wine Bar,Park,Pizza Place
+Wedding,Berlin,52.550123,13.341970000000002,1,Café,Bar,Chinese Restaurant,Coffee Shop,Turkish Restaurant,Park,Drugstore,Italian Restaurant,Ice Cream Shop,Bakery
+Gesundbrunnen,Berlin,52.5509201,13.384846,1,Café,Bar,Coffee Shop,Gym / Fitness Center,Park,Hotel,Supermarket,Dance Studio,Italian Restaurant,Turkish Restaurant
+Altona,Hamburg,53.58646755,9.777669726868915,4,Café,Coffee Shop,Cocktail Bar,Bakery,Seafood Restaurant,German Restaurant,French Restaurant,Hotel,Italian Restaurant,Bar
+St. Pauli,Hamburg,53.553934700000006,9.959431599999998,4,Hotel,Café,Portuguese Restaurant,Bar,Coffee Shop,Boat or Ferry,Theater,Cocktail Bar,Pizza Place,Nightclub
+Altstadt,Hamburg,53.55049605,9.997775627725256,0,Hotel,Burger Joint,Coffee Shop,Plaza,Vietnamese Restaurant,Art Gallery,Concert Hall,Park,Steakhouse,Theater
+Hammerbrook,Hamburg,53.5468152,10.0265586,0,Hotel,Coffee Shop,Vietnamese Restaurant,Italian Restaurant,Movie Theater,Art Gallery,Burger Joint,Theater,Bakery,Plaza
+Neustadt,Hamburg,53.5498808,9.9790482,0,Hotel,Coffee Shop,Seafood Restaurant,Steakhouse,Restaurant,Café,French Restaurant,Music Venue,Bookstore,Botanical Garden
+St. Georg,Hamburg,53.556993299999995,10.0141623,0,Hotel,French Restaurant,Vietnamese Restaurant,Coffee Shop,Steakhouse,Café,Theater,Italian Restaurant,Clothing Store,Cocktail Bar
+Hamburg-Nord,Hamburg,53.61915555,10.009739899920165,4,Café,Supermarket,Italian Restaurant,Bakery,Hotel,German Restaurant,Park,Ice Cream Shop,Restaurant,Burger Joint
+Eimsbüttel,Hamburg,53.5724835,9.9501,4,Café,Supermarket,Park,Italian Restaurant,Bakery,Ice Cream Shop,Coffee Shop,German Restaurant,Vietnamese Restaurant,French Restaurant
