@@ -10,31 +10,31 @@ Neighborhood,Latitude,Longitude,Borough,City
 "Günter-König-Sportplatz, Blücherstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",52.4927347,13.403776644744628,Friedrichshain-Kreuzberg,Berlin
 "3, Bürknerstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 12047, Deutschland",52.4934459,13.4264197,Friedrichshain-Kreuzberg,Berlin
 "La ManoVerde, 181-183, Uhlandstraße, Charlottenburg, Charlottenburg-Wilmersdorf, 10623, Deutschland",52.5039064,13.326405477422021,Charlottenburg,Berlin
-"Golden Tulip Berlin - Hotel Hamburg, 4, Landgrafenstraße, Botschaftsviertel, Tiergarten, Mitte, 10787, Deutschland",52.504213050000004,13.348932811993762,Tiergarten,Berlin
-"6-7, Am Karlsbad, Botschaftsviertel, Tiergarten, Mitte, 10785, Deutschland",52.50416395,13.370236340687406,Tiergarten,Berlin
+"Golden Tulip Berlin - Hotel Hamburg, 4, Landgrafenstraße, Botschaftsviertel, Tiergarten, Mitte, Berlin, 10787, Deutschland",52.504213050000004,13.348932811993762,Mitte,Berlin
+"6-7, Am Karlsbad, Botschaftsviertel, Tiergarten, Mitte, Berlin, 10785, Deutschland",52.50416395,13.370236340687406,Mitte,Berlin
 "97, Charlottenstraße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10969, Deutschland",52.5047924,13.3926464,Friedrichshain-Kreuzberg,Berlin
 "32, Dresdener Straße, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10179, Deutschland",52.5051407,13.4148142,Friedrichshain-Kreuzberg,Berlin
 "Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland",52.50586510479478,13.437289434872104,Friedrichshain-Kreuzberg,Berlin
 "Ludwig-Cauer-Grundschule, 36, Cauerstraße, Charlottenburg, Charlottenburg-Wilmersdorf, 10587, Deutschland",52.515922399999994,13.315554338537208,Charlottenburg,Berlin
-"479, Bachstraße, Hansaviertel, Mitte, 10555, Deutschland",52.5155677,13.3373175,Hansaviertel,Berlin
-"Kastanienallee, Botschaftsviertel, Tiergarten, Mitte, 10557, Deutschland",52.51620632934443,13.359209904242922,Tiergarten,Berlin
-"S Brandenburger Tor, Unter den Linden, Mitte, 10117, Deutschland",52.516441900000004,13.381895884125278,Unter den Linden,Berlin
+"479, Bachstraße, Hansaviertel, Mitte, Berlin, 10555, Deutschland",52.5155677,13.3373175,Mitte,Berlin
+"Kastanienallee, Botschaftsviertel, Tiergarten, Mitte, Berlin, 10557, Deutschland",52.51620632934443,13.359209904242922,Mitte,Berlin
+"S Brandenburger Tor, Unter den Linden, Mitte, Berlin, 10117, Deutschland",52.516441900000004,13.381895884125278,Mitte,Berlin
 "Neuer Marstall, Spreeufer, Spandauer Vorstadt, Mitte, Berlin, 10178, Deutschland",52.5162991,13.403915829367396,Mitte,Berlin
 "Singer109, 109, Singerstraße, Luisenstadt, Mitte, Friedrichshain-Kreuzberg, Berlin, 10179, Deutschland",52.51674,13.42536954279176,Friedrichshain-Kreuzberg,Berlin
 "121, Karl-Marx-Allee, Hausburgviertel, Friedrichshain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland",52.5170413,13.4475335,Friedrichshain-Kreuzberg,Berlin
-"64A, Huttenstraße, Moabit, Mitte, 10553, Deutschland",52.5272019,13.3256078,Moabit,Berlin
-"H, Turmstraße, Moabit, Mitte, 10559, Deutschland",52.527416650000006,13.347827100305645,Moabit,Berlin
-"60-61, Heidestraße, Moabit, Mitte, 10557, Deutschland",52.527423999999996,13.370115548457262,Moabit,Berlin
-"10, Torstraße, Spandauer Vorstadt, Mitte, 10115, Deutschland",52.5280731,13.3920712,Spandauer Vorstadt,Berlin
-"La Vie, 7, Straßburger Straße, Kollwitzkiez, Prenzlauer Berg, Pankow, Berlin, 10405, Deutschland",52.528704000000005,13.414229628644708,Pankow,Berlin
+"64A, Huttenstraße, Moabit, Mitte, Berlin, 10553, Deutschland",52.5272019,13.3256078,Mitte,Berlin
+"H, Turmstraße, Moabit, Mitte, Berlin, 10559, Deutschland",52.527416650000006,13.347827100305645,Mitte,Berlin
+"60-61, Heidestraße, Moabit, Mitte, Berlin, 10557, Deutschland",52.527423999999996,13.370115548457262,Mitte,Berlin
+"10, Torstraße, Spandauer Vorstadt, Mitte, Berlin, 10115, Deutschland",52.5280731,13.3920712,Mitte,Berlin
+"La Vie, 7, Straßburger Straße, Kollwitzkiez, Prenzlauer Berg, Mitte, Berlin, 10405, Deutschland",52.528704000000005,13.414229628644708,Mitte,Berlin
 "Am Friedrichshain, Bötzowviertel, Prenzlauer Berg, Pankow, Berlin, 10407, Deutschland",52.5294446,13.4361637,Pankow,Berlin
 "Randsteig, KGA Degenhof, Charlottenburg-Nord, Charlottenburg-Wilmersdorf, 13627, Deutschland",52.53885796885887,13.314242349639466,Charlottenburg-Nord,Berlin
-"Westhafenstraße, Moabit, Mitte, 13353, Deutschland",52.539072317341734,13.3363117783396,Moabit,Berlin
-"28, Lynarstraße, Sprengelkiez, Wedding, Mitte, 13353, Deutschland",52.5396287,13.3583467,Wedding,Berlin
-"104, Ackerstraße, Gesundbrunnen, Mitte, 13355, Deutschland",52.539800400000004,13.380704378735633,Gesundbrunnen,Berlin
-"47A, Bernauer Straße, Spandauer Vorstadt, Mitte, Pankow, Mitte, 10435, Deutschland",52.5399446,13.4027158,Pankow,Berlin
+"Westhafenstraße, Moabit, Mitte, Berlin, 13353, Deutschland",52.539072317341734,13.3363117783396,Mitte,Berlin
+"27, Lynarstraße, Sprengelkiez, Wedding, Mitte, Berlin, 13353, Deutschland",52.53929345,13.358274630415023,Mitte,Berlin
+"104, Ackerstraße, Gesundbrunnen, Mitte, Berlin, 13355, Deutschland",52.539800400000004,13.380704378735633,Mitte,Berlin
+"47A, Bernauer Straße, Spandauer Vorstadt, Mitte, Berlin, 10435, Deutschland",52.5399446,13.4027158,Mitte,Berlin
 "191, Prenzlauer Allee, Winsviertel, Prenzlauer Berg, Pankow, Berlin, 10405, Deutschland",52.5403352,13.4245172,Pankow,Berlin
-"Anna Kiryakova, 8, Kameruner Straße, Brüsseler Kiez, Wedding, Mitte, 13351, Deutschland",52.5507395,13.3469067,Wedding,Berlin
-"41, Gottschedstraße, Gesundbrunnen, Mitte, 13357, Deutschland",52.55109745,13.369319099999998,Gesundbrunnen,Berlin
-"9, Spanheimstraße, Gesundbrunnen, Mitte, 13357, Deutschland",52.5515842,13.3910066,Gesundbrunnen,Berlin
+"Anna Kiryakova, 8, Kameruner Straße, Brüsseler Kiez, Wedding, Mitte, Berlin, 13351, Deutschland",52.5507395,13.3469067,Mitte,Berlin
+"41, Gottschedstraße, Gesundbrunnen, Mitte, Berlin, 13357, Deutschland",52.55109745,13.369319099999998,Mitte,Berlin
+"9, Spanheimstraße, Gesundbrunnen, Mitte, Berlin, 13357, Deutschland",52.5515842,13.3910066,Mitte,Berlin
 "108, Schönhauser Allee, Arnimkiez, Prenzlauer Berg, Pankow, Berlin, 10439, Deutschland",52.55171125,13.413424056284095,Pankow,Berlin
